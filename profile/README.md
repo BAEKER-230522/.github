@@ -50,3 +50,25 @@
     id: 
     pw: 
     ```
+
+<br>
+
+## Team
+
+<table>
+    <tr>
+      <td align="center"><img src="https://github.com/PARKPARKWOO.png" width="160"></td>
+      <td align="center"><img src="https://github.com/jeongdopark.png" width="160"></td>
+      <td align="center"><img src="https://github.com/choideakook.png" width="160"></td>
+    </tr>
+    <tr>
+      <td align="center">박우영</td>
+      <td align="center">박정도</td>
+      <td align="center">최대국</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/PARKPARKWOO" target="_blank" width="160">@PARKPARKWOO</a></td>
+      <td align="center"><a href="https://github.com/jeongdopark" target="_blank">@jeongdopark</a></td>
+      <td align="center"><a href="https://github.com/choideakook" target="_blank">@choideakook</a></td>
+    </tr>
+  </table>
