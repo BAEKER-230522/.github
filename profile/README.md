@@ -23,9 +23,9 @@
 <br>
 <br>
 
-**개발 기간** <font color="gray">2023.04 ~ 진행중</font>
+**개발 기간** | 2023.04 ~ 진행중
 
-**개발 인원** <font color="gray">프론트 1명, 백엔드 2명</font>
+**개발 인원** | 프론트 1명, 백엔드 2명
 
 <br>
 
@@ -72,3 +72,6 @@
       <td align="center"><a href="https://github.com/choideakook" target="_blank">@choideakook</a></td>
     </tr>
   </table>
+
+<br>
+<br>
